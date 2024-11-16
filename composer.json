@@ -12,11 +12,13 @@
             "name": "Yusuf Özbaş"
         }
     ],
-    "require": {},
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/trxyazilimedu/php-denisdb-driver.git"
+            "url": "https://github.com/trxyazilimedu/php-denisdb-driver"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {}
 }
