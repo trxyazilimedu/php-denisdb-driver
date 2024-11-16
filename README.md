@@ -8,7 +8,7 @@ Denis Database İçin PHP İle bağlantı sağlayıp komut göndermek için bir 
 
 ## Yükleme
 
-benim-projem'i npm kullanarak yükleyin
+Composer kullanarak yükleyin
 
 ```bash 
   composer require trxyazilim/denisdb
