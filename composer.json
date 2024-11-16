@@ -1,0 +1,22 @@
+{
+    "name": "trxyazilim/denisdb",
+    "description": "DenisDB için Yazılmış bir Driver",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Trxyazilim\\Denisdb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yusuf Özbaş"
+        }
+    ],
+    "require": {},
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/trxyazilimedu/php-denisdb-driver.git"
+        }
+    ]
+}
